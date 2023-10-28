@@ -45,7 +45,6 @@ body {
 
 .titulo-destaque {
     color: var(--cor-terciaria);;
-    border: 2px solid var(--cor-terciaria);
     padding: 0 8px; 
 }
 
