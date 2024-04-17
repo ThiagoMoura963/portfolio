@@ -12,6 +12,4 @@
 
 ## Feito por: Thiago Moura
 
-### Joana Santos
-
 ### Linkedin: https://www.linkedin.com/in/thiago-moura-b3b211207/
